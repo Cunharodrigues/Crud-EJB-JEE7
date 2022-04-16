@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "email-mask": "^1.0.5",
+    "install": "^0.13.0"
+  }
+}
