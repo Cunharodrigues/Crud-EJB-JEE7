@@ -21,3 +21,6 @@
     ° JBoos tools
     ° Plugin jQuery-Mask
    
+## Tela com usuários cadastrados:
+   
+   ![crudejb](https://user-images.githubusercontent.com/30321724/163689297-1bb88e03-9aaa-48d9-b6a7-ef2323db2b97.PNG)
