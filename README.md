@@ -4,7 +4,7 @@
     CAMPOS:
       Nome:
       E-mail
-      Telefone:(validação de campo somente numeros)
+      Telefone:(validação de campo somente numeros tanto para celular ou fixo)
       
 ## Foram utilizados os seguintes ferramentas: 
     ° Bootstrap
