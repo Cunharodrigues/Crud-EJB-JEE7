@@ -6,7 +6,7 @@
       E-mail
       Telefone:(validação de campo somente numeros tanto para celular ou fixo)
       
-## Foram utilizados os seguintes ferramentas: 
+## Foram utilizados as seguintes ferramentas: 
     ° Bootstrap
     ° Angular JS
     ° JAX-RX
